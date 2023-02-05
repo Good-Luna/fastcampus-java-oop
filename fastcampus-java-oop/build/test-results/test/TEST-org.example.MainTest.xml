@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.example.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-02T03:44:59" hostname="DESKTOP-O6A1KHT" time="0.014">
+<testsuite name="org.example.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-05T06:39:49" hostname="DESKTOP-O6A1KHT" time="0.019">
   <properties/>
-  <testcase name="main()" classname="org.example.MainTest" time="0.014"/>
+  <testcase name="main()" classname="org.example.MainTest" time="0.019"/>
   <system-out><![CDATA[[result][1, 2, 3]
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
