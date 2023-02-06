@@ -1,8 +1,13 @@
 package org.example.logic;
 
 
+import org.springframework.stereotype.Component;
+
 import java.util.ArrayList;
 import java.util.List;
+
+/*@Component해주면 bin에 등록*/
+@Component
 public class BubbleSort <T extends Comparable<T>> implements Sort<T>{
         @Override //안해도 되지만 상태표기에 용이
         public List<T> sort(List<T> list) {
