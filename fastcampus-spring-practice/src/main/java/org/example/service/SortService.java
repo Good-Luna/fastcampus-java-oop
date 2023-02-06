@@ -8,6 +8,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+
 /*@Service 는 Component와 유사 기능 서비스 로직이라 어울리는 어노테이션 달아준것!*/
 @Service
 public class SortService {
