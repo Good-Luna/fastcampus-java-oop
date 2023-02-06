@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.example.service.SortServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-05T12:35:54" hostname="DESKTOP-O6A1KHT" time="0.017">
-  <properties/>
-  <testcase name="doSort()" classname="org.example.service.SortServiceTest" time="0.017"/>
-  <system-out><![CDATA[[구현체는]org.example.logic.BubbleSort
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
