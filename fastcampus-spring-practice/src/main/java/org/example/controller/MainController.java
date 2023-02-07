@@ -18,8 +18,9 @@ public class MainController {
     }
 
     @GetMapping("/")
-    public String hello() {
-        return "hello";
+    public String hello(@RequestParam List<String> list) {
+        return sortService.doSort(list).toString();
+        /*http://localhost:8080/?list=3,2,1*/
     }
 
 }
