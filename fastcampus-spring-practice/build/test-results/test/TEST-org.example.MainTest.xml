@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.example.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-06T12:38:17" hostname="DESKTOP-O6A1KHT" time="0.317">
-  <properties/>
-  <testcase name="main()" classname="org.example.MainTest" time="0.317"/>
-  <system-out><![CDATA[[구현체는]org.example.logic.BubbleSort
-[result][1, 2, 3]
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
